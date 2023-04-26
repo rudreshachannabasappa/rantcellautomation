@@ -1,0 +1,15 @@
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+ab6cde84a9bc44909d5f138aae8cef49
+
+This may also be found at: C:\Users\RudreshaC\.jenkins\secrets\initialAdminPassword
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+2023-04-26 06:01:35.070+0000 [id=42]    INFO    jenkins.InitReactorRunner$1#onAttained: Completed initialization
+2023-04-26 06:01:35.112+0000 [id=25]    INFO    hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+2023-04-26 06:01:36.099+0000 [id=67]    INFO    h.m.DownloadService$Downloadable#load: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+2023-04-26 06:01:36.100+0000 [id=67]    INFO    hudson.util.Retrier#start: Performed the action

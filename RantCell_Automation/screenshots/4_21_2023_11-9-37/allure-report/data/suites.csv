@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Apr 21 11:11:06 IST 2023","Fri Apr 21 11:11:17 IST 2023","10326","","test_campaigns1","Test_Campaign_Driver","","","test_campaign[Samsung SM-G781B-T001-Live-https://live1.rantcell.com-eva@rantcell.com-eva@2023]",""
+"passed","Fri Apr 21 11:10:14 IST 2023","Fri Apr 21 11:11:00 IST 2023","45549","","test_campaigns1","Test_Campaign_Driver","","","test_campaign[Samsung SM-G781B-T001-PreProd-https://preproductionpro.rantcell.com/-eva@rantcell.com-eva@2023]",""
+"failed","Fri Apr 21 11:11:05 IST 2023","Fri Apr 21 11:11:16 IST 2023","10647","","test_campaigns","Test_Campaign_Driver","","","test_campaign[Samsung SM-G781B-T001-Live-https://live1.rantcell.com-eva@rantcell.com-eva@2023]",""
+"passed","Fri Apr 21 11:10:13 IST 2023","Fri Apr 21 11:10:59 IST 2023","45823","","test_campaigns","Test_Campaign_Driver","","","test_campaign[Samsung SM-G781B-T001-PreProd-https://preproductionpro.rantcell.com/-eva@rantcell.com-eva@2023]",""

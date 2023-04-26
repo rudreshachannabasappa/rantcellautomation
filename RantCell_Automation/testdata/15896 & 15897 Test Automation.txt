@@ -1,0 +1,11 @@
+15896 & 15897 Test Automation 
+
+15474: Paragon Insights : Juniper Paragon insights - We dont have experience in Juniper
+
+15472 & XXXXX: Paragon Active Insurance - We dont have experience in Paragon Active Insurance
+
+15469:Nextbox Tester - We dont have experience in Django devlopment and testing and Yang
+
+PCRF: Restrictions
+
+Bearers - Dedicated bearer and default.
