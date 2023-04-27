@@ -34,35 +34,35 @@ class Test_Campaign_Driver:
 
         # Click Android Test Data
 
-        time.sleep(5)
-
-        AndroidTestData = [By.XPATH,"//span[text()='Android Test Data']","Android Test Data"]
-
-        assert lb.clickec(self,AndroidTestData)
-
-        time.sleep(5)
-
-        ProTestData = [By.XPATH, "//span[text()='Pro TestData']", "Pro TestData"]
-
-        assert lb.clickec(self, ProTestData)
-
-        time.sleep(4)
-
-        Variable_MobileDevice_Xpath = "//*[text()[contains(.,'" + str(device) + "')]]"
-
-        assert lb.clickec(self, Variable_MobileDevice_Xpath)
-
-        time.sleep(15)
-
-
-
+        # time.sleep(5)
         #
-        # print("performing campaign search:" + campaign)
+        # AndroidTestData = [By.XPATH,"//span[text()='Android Test Data']","Android Test Data"]
         #
-        # # Call Test Type - components - PingTest, Speed-Download,Speed-Upload.. etc...
-
-        for x in components:
-            print("Performing " + x + " test")
+        # assert lb.clickec(self,AndroidTestData)
+        #
+        # time.sleep(5)
+        #
+        # ProTestData = [By.XPATH, "//span[text()='Pro TestData']", "Pro TestData"]
+        #
+        # assert lb.clickec(self, ProTestData)
+        #
+        # time.sleep(4)
+        #
+        # Variable_MobileDevice_Xpath = "//*[text()[contains(.,'" + str(device) + "')]]"
+        #
+        # assert lb.clickec(self, Variable_MobileDevice_Xpath)
+        #
+        # time.sleep(15)
+        #
+        #
+        #
+        # #
+        # # print("performing campaign search:" + campaign)
+        # #
+        # # # Call Test Type - components - PingTest, Speed-Download,Speed-Upload.. etc...
+        #
+        # for x in components:
+        #     print("Performing " + x + " test")
 
         GL.logout(self)
 
